@@ -1,0 +1,14 @@
+level,elev_low,elev_high,type
+0,0,0.6,Water
+0,0.6,0.65,Marsh
+0,0.65,0.8,Plain
+0,0.8,0.95,Hills
+0,0.95,0.99,Mountain
+0,0.99,1,Alpine
+1,0.0,0.2,Water
+1,0.2,0.25,Marsh
+1,0.25,0.4,Plain
+1,0.4,0.55,Hills
+1,0.55,0.6,Barren
+1,0.6,0.99,Rock
+1,0.99,1,Magma
